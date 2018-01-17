@@ -22,6 +22,16 @@ Lesson plan for Electric Quizboard
 ## Prepare Questions and answers
 Write  down 6 challenging questions and their answers on a piece of scrap paper.
 
+## Sample Questions
+* https://quizlet.com/233807267/arithmetic-terms-flash-cards/
+* https://quizlet.com/219777314/arithmetic-flash-cards/
+* https://quizlet.com/231274969/arithmetic-flash-cards/
+* https://quizlet.com/29465661/western-european-capitals-flash-cards/
+* https://quizlet.com/4672912/geo-bee-sample-questions-the-world-flash-cards/
+* https://quizlet.com/71107647/sat-vocab-a-z-flash-cards/
+* https://quizlet.com/124483428/romeo-and-juliet-literary-terms-flash-cards/
+* https://quizlet.com/33237713/chinese-numbers-and-months-flash-cards/
+
 ## Prepare Board
 Cut your cardboard or foam core to a rectangle about 8×10”. Punch 6 holes down each side (vertically). Pencil in the six questions – one next to each hole – down the left hand side of the board and the six answers down the right hand side. Make sure not to write the correct answers directly across from the questions – mix it up! Flip your board over. On the back side, draw lines from the holes with the questions to match them up to the holes with the correct answers.
 
